@@ -23,7 +23,7 @@ and, when compiling your code, add the source files and the required flag:
 get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
 
-## 📋 Testing
+## Testing
 You only have to edit the get_next_line.c file and uncomment the main function and headers inside it.
 You can edit test.txt files to put another text if you wish to test othe cases.
 Then simply run this command (change "xx" with desired buffer size) :
